@@ -6,7 +6,7 @@ A secure, offline TOTP (Time-based One-Time Password) generator for two-factor a
 
 This TOTP generator helps you stay secure in the age of deepfakes and AI-generated content. Create shared secret codes with people you trust to verify each other's identity during online communications.
 
-**Live Demo:** [https://fl0p.github.io/otp](https://fl0p.github.io/otp)
+**Live Demo:** [https://flopsstuff.github.io/otp](https://flopsstuff.github.io/otp)
 
 ## ✨ Features
 
@@ -54,12 +54,12 @@ Each shared secret serves as a unique authentication channel.
 ## 📦 Installation
 
 ### Use Online
-Simply visit [https://fl0p.github.io/otp](https://fl0p.github.io/otp)
+Simply visit [https://flopsstuff.github.io/otp](https://flopsstuff.github.io/otp)
 
 ### Self-Host
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Fl0p/otp.git
+   git clone https://github.com/Flopsstuff/otp.git
    cd otp
    ```
 
